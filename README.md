@@ -314,10 +314,6 @@ Production-grade MERN authentication system implementing JWT, bcrypt hashing (10
 **Tech Stack**
 `Node.js` `Express.js` `MongoDB` `Passport.js` `React.js`
 
-<p>
-<a href="https://github.com/syedaqurrath/mfa-authentication-system"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
 </td>
 <td width="50%" valign="top">
 
@@ -333,10 +329,6 @@ Real-time computer-vision inference pipeline classifying 10+ distinct hand gestu
 
 **Tech Stack**
 `Python` `OpenCV` `MediaPipe`
-
-<p>
-<a href="https://github.com/syedaqurrath/hand-gesture-recognition"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 </td>
 </tr>
@@ -356,10 +348,6 @@ Full-stack MERN learning platform with 6+ modular REST APIs, JWT role-based acce
 **Tech Stack**
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-<p>
-<a href="https://github.com/syedaqurrath/prepai"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
 </td>
 <td width="50%" valign="top">
 
@@ -375,10 +363,6 @@ Location-aware SPA handling 20+ tourist query types with real-time map rendering
 
 **Tech Stack**
 `React.js` `Supabase` `React-Leaflet` `Web Speech API`
-
-<p>
-<a href="https://github.com/syedaqurrath/tourist-assistance-platform"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 </td>
 </tr>
