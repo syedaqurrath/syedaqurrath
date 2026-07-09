@@ -25,7 +25,7 @@
 
 <!-- ======================== HEADER BANNER ======================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syeda%20Qurrath%20Ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" alt="Header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syeda%20Qurrath%20Ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20and%20Full-Stack%20Developer&descAlignY=55&descSize=18" alt="Header banner" width="100%"/>
 </p>
 
 <!-- ======================== TYPING ANIMATION ======================== -->
@@ -422,12 +422,12 @@ As a **GSSoC 2025** contributor, I resolved 10+ frontend defects across 3 high-t
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedaqurrath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=syedaqurrath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=syedaqurrath&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaqurrath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=syedaqurrath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
