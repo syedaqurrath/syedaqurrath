@@ -1,51 +1,26 @@
 <!--
   ===================================================================
-  SYEDA QURRATH UL AIN — GITHUB PROFILE README
+  SYEDA QURRATH UL AIN - GITHUB PROFILE README
   ===================================================================
-  Every URL in this file has been verified. No placeholders, no
-  broken links, no deprecated services.
-  
-  Widgets powered by:
-    - capsule-render.vercel.app    (header/footer banners)
-    - readme-typing-svg.demolab.com (typing animation)
-    - img.shields.io               (badges)
-    - skillicons.dev               (tech stack icons)
-    - github-readme-stats          (stats + top langs)
-    - streak-stats.demolab.com     (streak stats)
-    - github-readme-activity-graph (activity graph)
-    - github-profile-trophy        (trophies)
-    - komarev.com                  (visitor counter)
-    - quotes-github-readme         (dev quotes)
-  
-  GitHub Actions generated:
-    - Snake animation  → output branch (snake.yml)
-    - Metrics SVG      → assets/images/metrics.svg (metrics.yml)
+  Profile widgets and generated assets are documented in README-ASSETS.md.
   ===================================================================
 -->
 
 <!-- ======================== HEADER BANNER ======================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syeda%20Qurrath%20Ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20and%20Full-Stack%20Developer&descAlignY=55&descSize=18" alt="Header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syeda%20Qurrath%20Ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Production-Oriented%20AI%20Systems&descAlignY=55&descSize=16" alt="Header banner" width="100%"/>
 </p>
 
-<!-- ======================== TYPING ANIMATION ======================== -->
 <p align="center">
   <a href="https://github.com/syedaqurrath">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2C5364&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Full+Stack+Developer+%28MERN%29;AI+%2F+Machine+Learning+Engineer;Computer+Vision+Developer;REST+API+%26+Backend+Engineer;Open+Source+Contributor+%40+GSSoC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2C5364&center=true&vCenter=true&width=650&height=50&lines=AI+Engineering+%26+LLM+Applications;Python+%26+Backend+Engineering;RAG%2C+Agents%2C+and+Tool+Integration;Full-Stack+Software+Development" alt="Typing animation" />
   </a>
 </p>
 
-<!-- ======================== SOCIAL BADGES ======================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/syeda-qurrath282">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/syedaqurrath">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:qurrath2809@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://linkedin.com/in/syeda-qurrath282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/syedaqurrath"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:qurrath2809@gmail.com?subject=AI%20Engineering%20Opportunity"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -54,372 +29,137 @@
 
 <br/>
 
-<!-- ======================== TABLE OF CONTENTS ======================== -->
-<details>
-<summary><b>📑 Table of Contents</b></summary>
+## About Me
 
-- [About Me](#-about-me)
-- [Currently Learning](#-currently-learning)
-- [Tech Stack](#️-tech-stack)
-- [Skill Proficiency](#-skill-proficiency)
-- [Experience](#-experience)
-- [Featured Projects](#-featured-projects)
-- [Open Source](#-open-source)
-- [Certifications](#-certifications)
-- [GitHub Analytics](#-github-analytics)
-- [Achievements](#-achievements)
-- [2026 Roadmap](#️-2026-roadmap)
-- [Fun Facts](#-fun-facts)
-- [Let's Connect](#-lets-connect)
+I started with **Python, SQL, and full-stack development**, building REST APIs, web applications, authentication flows, and data-driven features. I am now focusing that foundation on **AI Engineering**: designing practical LLM applications and production-oriented AI services that connect models with reliable APIs, retrieval, tools, and user-facing products.
 
-</details>
+My current positioning is **AI Engineer | Software Engineer | Building Production-Oriented AI Systems**. I value clear architecture, observable services, and software that works end to end.
 
-<br/>
+## Current AI Engineering Focus
 
-<!-- ======================== ABOUT ME ======================== -->
-## 👩‍💻 About Me
+- Python-based AI and backend services
+- Retrieval-Augmented Generation (RAG) and vector retrieval
+- LLM applications and local model workflows
+- AI agents, tool calling, and API integration
+- FastAPI, REST APIs, and Pydantic-based contracts
+- ChromaDB and vector databases
+- Docker and Docker Compose
+- Redis and Celery for asynchronous work
+- MLOps foundations and production-oriented workflows
+- Full-stack interfaces for AI applications
 
-```yaml
-name: "Syeda Qurrath Ul Ain"
-role: "Software Engineer — AI & Full-Stack Development"
-location: "Bengaluru, Karnataka, India"
-education: "MCA, Presidency University (GPA 8.8/10, Distinction)"
-focus_areas:
-  - Full-Stack Development (MERN)
-  - AI-integrated applications & Computer Vision
-  - REST API design & secure authentication
-open_to:
-  - "Software Engineering roles"
-  - "AI/ML Engineering roles"
-  - "Remote & Bengaluru-based opportunities"
-open_source: true
-currently_learning:
-  - "Deep Learning"
-  - "Transformers"
-  - "LLMs"
-  - "RAG"
-  - "LangChain"
-  - "AWS"
-  - "System Design"
-```
+## Technical Skills
 
-I'm an MCA graduate who builds production-quality software across **Python, Node.js, React.js, and OpenCV** stacks — spanning RESTful API design, secure authentication systems, real-time interactivity, and ML data pipelines. I hold the **Oracle Certified AI Foundations Associate** certification and I'm an active **GSSoC (GirlScript Summer of Code)** open-source contributor.
+### AI / LLM Engineering
 
-I care about clean architecture, readable code, and shipping things that actually work end-to-end — not just in a notebook.
+`Python` `RAG` `LLM Applications` `AI Agents` `Tool Calling` `API Integration` `Ollama` `LangGraph` `Agentic RAG`
 
-<br/>
+### Backend Engineering
 
-<!-- ======================== CURRENTLY LEARNING ======================== -->
-## 🌱 Currently Learning
+`FastAPI` `Pydantic` `REST APIs` `Node.js` `Express.js` `JWT` `OAuth 2.0` `Middleware`
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br/>
-      <b>Deep Learning</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/neural-network.png" width="40"/><br/>
-      <b>Transformers</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/chat.png" width="40"/><br/>
-      <b>LLMs</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/search--v1.png" width="40"/><br/>
-      <b>RAG</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/chain.png" width="40"/><br/>
-      <b>LangChain</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/><br/>
-      <b>AWS</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/48/docker.png" width="40"/><br/>
-      <b>Docker</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/organization.png" width="40"/><br/>
-      <b>System Design</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4">
-      <img src="https://img.icons8.com/fluency/48/data-configuration.png" width="40"/><br/>
-      <b>Data Structures &amp; Algorithms</b>
-    </td>
-  </tr>
-</table>
+### AI Infrastructure / MLOps
 
-<br/>
+`Docker` `Docker Compose` `Redis` `Celery` `Asynchronous Processing` `Health Checks` `Retries` `Logging` `MLOps Foundations`
 
-<!-- ======================== TECH STACK ======================== -->
-## 🛠️ Tech Stack
+### Databases
 
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
-</p>
-</details>
+`ChromaDB` `Vector Databases` `MongoDB` `MySQL` `Supabase` `SQL`
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
-</p>
-</details>
+### Frontend
 
-<details open>
-<summary><b>Backend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+`React.js` `Vite` `HTML` `CSS` `React-Leaflet` `Web Speech API` `Streamlit`
 
-- RESTful API Design · JWT · bcrypt · OAuth 2.0 · Passport.js · Session Management · Middleware
-</details>
+### Developer Tools
 
-<details open>
-<summary><b>Databases</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
-</p>
-</details>
+`Git` `GitHub` `VS Code` `Postman` `OpenCV` `MediaPipe`
 
-<details open>
-<summary><b>AI / Machine Learning / Computer Vision</b></summary>
-<br/>
+## Featured AI Project
 
-- OpenCV · MediaPipe · Computer Vision · Machine Learning · Feature Engineering · Data Preprocessing · Data Analysis (Pandas, NumPy)
-</details>
+### Enterprise RAG Microservice
 
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
+**Current AI Engineering focus | Architecture details to be documented with the project repository**
 
-- Docker (Fundamentals) · Netlify Deployment
-</details>
+I am focusing on an enterprise-oriented RAG microservice that brings together document ingestion, vector retrieval, LLM responses, and application-facing APIs. The implementation repository and its Docker configuration are not included in this GitHub profile repository, so the architecture below is intentionally presented as the current engineering focus rather than as a claim about code stored here.
 
-<details open>
-<summary><b>Testing & QA</b></summary>
-<br/>
+**Target architecture and learning scope**
 
-- API Testing (Postman — certified) · Functional Testing · Debugging · Test Documentation
-</details>
+- FastAPI and Pydantic for typed service contracts
+- ChromaDB for vector storage and retrieval
+- Redis and Celery for asynchronous document ingestion
+- Docker Compose for local multi-service development
+- Ollama for local LLM inference
+- Streamlit as an application interface for interacting with the service
+- Metadata and source tracking to support traceable retrieval results
+- Health checks, retries, structured logging, and observability foundations
 
-<details open>
-<summary><b>Tools & Practices</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+The project is the center of my transition from full-stack software development into AI Engineering. Detailed architecture claims, source links, and validation notes will be added when the implementation repository is available here.
 
-- Agile · SDLC · OOP · DBMS · Version Control
-</details>
+## Other Projects
 
-<br/>
+These projects represent the software engineering and applied AI work that forms the foundation for my current AI Engineering direction.
 
-<!-- ======================== SKILL PROFICIENCY ======================== -->
-## 📈 Skill Proficiency
+### PrepAI - AI-Assisted Learning Platform
 
-| Skill | Proficiency |
-|---|---|
-| Python | ████████████████░░░░ 80% |
-| JavaScript | ███████████████░░░░░ 75% |
-| React.js / Node.js / Express.js | ███████████████░░░░░ 75% |
-| SQL (MySQL / MongoDB) | ██████████████░░░░░░ 70% |
-| REST API Design & Authentication | ████████████████░░░░ 80% |
-| Computer Vision (OpenCV / MediaPipe) | █████████████░░░░░░░ 65% |
-| Git / GitHub Workflows | ████████████████░░░░ 80% |
-| Deep Learning / LLMs / RAG | ████████░░░░░░░░░░░░ 40% *(actively learning)* |
+Full-stack MERN learning platform with modular REST APIs, JWT-based role access control, and MongoDB-backed content for learners, contributors, and administrators. Includes an API layer for AI-assisted content recommendations.
 
-<br/>
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-<!-- ======================== EXPERIENCE ======================== -->
-## 💼 Experience
+### Multi-Factor Authentication System
 
-<table>
-  <tr>
-    <td width="90" align="center">🧠</td>
-    <td>
-      <b>AI and Data Science Intern</b> — Ozenfx, Bengaluru <br/>
-      <sub><i>Feb 2026 – May 2026</i></sub>
-      <ul>
-        <li>Engineered end-to-end data preprocessing and feature-engineering pipelines in Python (Pandas, NumPy) for ML model evaluation across 3+ structured business datasets.</li>
-        <li>Conducted exploratory data analysis, producing visualizations that informed model selection decisions made with the senior data science team.</li>
-        <li>Implemented train/test splits, k-fold cross-validation, and performance-metric evaluation across 2+ ML models.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center">🌐</td>
-    <td>
-      <b>Open Source Contributor</b> — GirlScript Summer of Code (GSSoC) <br/>
-      <sub><i>Oct 2025 – Dec 2025</i></sub>
-      <ul>
-        <li>Resolved 10+ React.js frontend defects across 3 high-traffic open-source repositories.</li>
-        <li>Practiced Git workflows — feature branching, rebasing, code review, and pull requests — in Agile distributed teams.</li>
-        <li>🏆 Awarded <b>GSSoC 2025 Contributor Recognition</b> for sustained quality.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center">🎓</td>
-    <td>
-      <b>Master of Computer Applications (MCA)</b> — Presidency University, Bengaluru <br/>
-      <sub><i>Dec 2024 – May 2026 · GPA 8.8/10 · Graduated with Distinction</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center">🎓</td>
-    <td>
-      <b>Bachelor of Computer Applications (BCA)</b> — Pssshe, Davangere <br/>
-      <sub><i>Nov 2021 – Jul 2024 · GPA 8.9/10 · Graduated with Distinction</i></sub>
-    </td>
-  </tr>
-</table>
+MERN authentication project covering registration, login, verification, password reset, session management, OAuth 2.0, and TOTP-based multi-factor authentication.
 
-<br/>
+`Node.js` `Express.js` `MongoDB` `Passport.js` `React.js` `JWT`
 
-<!-- ======================== FEATURED PROJECTS ======================== -->
-## 🚀 Featured Projects
+### Hand Gesture Recognition System
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Computer-vision application that uses live camera input to recognize hand gestures and map them to desktop actions. Recognition and interaction logic are separated into modular components.
 
-### 🔐 Multi-Factor Authentication System
-![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
-
-Production-grade MERN authentication system implementing JWT, bcrypt hashing (10+ salt rounds), OAuth 2.0 (Google & GitHub), and TOTP-based MFA — protecting 4 distinct user flows in alignment with OWASP Top 10 standards.
-
-**Key Features**
-- 8+ documented REST API endpoints (registration, login, verification, password reset, session management)
-- React dashboard with protected routing and real-time feedback
-- OWASP-aligned security practices
-
-**Tech Stack**
-`Node.js` `Express.js` `MongoDB` `Passport.js` `React.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🖐️ Hand Gesture Recognition System
-![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
-
-Real-time computer-vision inference pipeline classifying 10+ distinct hand gestures from live camera streams with under 50ms end-to-end latency, enabling touchless desktop interaction for 5 mapped system actions.
-
-**Key Features**
-- Modular gesture-to-action mapping architecture
-- Recognition logic decoupled from interaction logic
-- ~70% reduction in extension effort for new gesture commands
-
-**Tech Stack**
 `Python` `OpenCV` `MediaPipe`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Tourist Assistance Platform
 
-### 📚 PrepAI — AI-Assisted Learning Platform
-![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
+Location-aware React single-page application with map rendering, Supabase-backed authentication and data services, and voice interaction through the Web Speech API.
 
-Full-stack MERN learning platform with 6+ modular REST APIs, JWT role-based access control, and a MongoDB schema supporting 3 user roles — learner, contributor, and admin — with personalized content delivery.
-
-**Key Features**
-- AI-assisted content recommendation integrated via a clean API layer
-- Role-based access control across 3 distinct user types
-- ~40% reduction in manual content-selection effort
-
-**Tech Stack**
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ Tourist Assistance Platform
-![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
-
-Location-aware SPA handling 20+ tourist query types with real-time map rendering via React-Leaflet, Supabase-backed authentication, and cloud data services — sub-2-second load times on standard connections.
-
-**Key Features**
-- Web Speech API voice-recognition layer for hands-free navigation
-- Real-time map rendering with React-Leaflet
-- Third input modality alongside touch and click
-
-**Tech Stack**
 `React.js` `Supabase` `React-Leaflet` `Web Speech API`
 
-</td>
-</tr>
-</table>
+## AI Engineering Roadmap
 
-<br/>
+### Completed or actively practiced
 
-<!-- ======================== OPEN SOURCE ======================== -->
-## 🌐 Open Source
+- Python, REST APIs, backend services, and full-stack application development
+- Applied AI and computer-vision projects
+- RAG and vector-database fundamentals
+- Dockerized AI service patterns
+- Redis/Celery concepts for asynchronous processing
+- Local LLM workflows with Ollama
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GirlScript_Summer_of_Code-FF4785?style=for-the-badge&logoColor=white" alt="GSSoC"/>
-  <img src="https://img.shields.io/badge/2025_Contributor_Recognition-FFD700?style=for-the-badge&logoColor=black" alt="Contributor Recognition"/>
-</p>
+### Planned learning and implementation
 
-As a **GSSoC 2025** contributor, I resolved 10+ frontend defects across 3 high-traffic open-source repositories and practiced professional Git workflows daily:
+- Build and validate AI agents with tool calling
+- Strengthen API integration patterns for agent workflows
+- Learn and apply LangGraph
+- Develop agentic RAG workflows
+- Add systematic AI evaluation and guardrails
+- Deploy AI services to the cloud
+- Design more complete production agent workflows
 
-- 🌿 Feature branching & rebasing
-- 🔍 Code reviews
-- 🔀 Pull requests within Agile, distributed teams
-- 🤝 Cross-timezone collaboration across a 2-month program
+## Experience and Education
 
-<br/>
+- **AI and Data Science Intern, Ozenfx, Bengaluru** - Feb 2026 to May 2026
+  - Worked with Python data preprocessing, feature engineering, exploratory analysis, validation, and model evaluation.
+- **Open Source Contributor, GirlScript Summer of Code** - Oct 2025 to Dec 2025
+  - Contributed React.js fixes and practiced feature branching, rebasing, code review, and pull requests.
+- **Master of Computer Applications, Presidency University, Bengaluru** - GPA 8.8/10, Distinction
+- **Bachelor of Computer Applications, Pssshe, Davangere** - GPA 8.9/10, Distinction
 
-<!-- ======================== CERTIFICATIONS ======================== -->
-## 📜 Certifications
+## Certifications and Open Source
 
-<table align="center">
-  <tr>
-    <td align="center" width="260">
-      <img src="https://img.icons8.com/color/48/oracle-logo.png" width="36"/><br/>
-      <b>Oracle Certified AI Foundations Associate</b><br/>
-      <sub>Cloud Infrastructure & AI/ML Fundamentals</sub>
-    </td>
-    <td align="center" width="260">
-      <img src="https://img.icons8.com/color/48/postman-api-platform.png" width="36"/><br/>
-      <b>Postman API Fundamentals Student Expert</b><br/>
-      <sub>Advanced API Testing & Documentation</sub>
-    </td>
-    <td align="center" width="260">
-      <img src="https://img.icons8.com/color/48/prize.png" width="36"/><br/>
-      <b>GSSoC 2025 Contributor Recognition</b><br/>
-      <sub>Consistent High-Quality Open-Source Contributions</sub>
-    </td>
-  </tr>
-</table>
+- Oracle Certified AI Foundations Associate
+- Postman API Fundamentals Student Expert
+- GSSoC 2025 Contributor Recognition
 
-<br/>
-
-<!-- ======================== GITHUB ANALYTICS ======================== -->
-## 📊 GitHub Analytics
-
-<!--
-  Widgets 1–4 + Trophies are hosted services — zero setup, just push.
-  Snake animation requires snake.yml workflow (output branch).
-  Metrics SVG requires metrics.yml workflow (commits to main).
--->
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=syedaqurrath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -434,81 +174,22 @@ As a **GSSoC 2025** contributor, I resolved 10+ frontend defects across 3 high-t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedaqurrath&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
-<!-- GitHub Metrics — generated by .github/workflows/metrics.yml, committed to main branch -->
 <p align="center">
   <img src="./assets/images/metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
 
-<!-- Snake animation — generated by .github/workflows/snake.yml, pushed to output branch -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syedaqurrath/syedaqurrath/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/syedaqurrath/syedaqurrath/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedaqurrath&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+## Let's Connect
 
-<br/>
+I am open to conversations about AI Engineering, backend architecture, full-stack development, and open source.
 
-<!-- ======================== ACHIEVEMENTS ======================== -->
-## 🏆 Achievements
+- [LinkedIn](https://linkedin.com/in/syeda-qurrath282)
+- [GitHub](https://github.com/syedaqurrath)
+- [Email](mailto:qurrath2809@gmail.com?subject=AI%20Engineering%20Opportunity)
 
-<table align="center">
-  <tr>
-    <td align="center" width="150"><h3>4+</h3>Projects Built</td>
-    <td align="center" width="150"><h3>1</h3>Internship</td>
-    <td align="center" width="150"><h3>10+</h3>OSS Bugs Fixed</td>
-    <td align="center" width="150"><h3>1</h3>AI Certification</td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ======================== 2026 ROADMAP ======================== -->
-## 🗺️ 2026 Roadmap
-
-- [ ] Build and ship a production-grade AI SaaS product
-- [ ] Contribute to a major open-source project (framework/library level)
-- [ ] Master AWS (core services + deployment pipelines)
-- [ ] Go deep on Deep Learning & Transformer architectures
-- [ ] Publish a technical write-up / research note
-- [ ] Strengthen System Design fundamentals
-
-<br/>
-
-<!-- ======================== FUN FACTS ======================== -->
-## ⚡ Fun Facts
-
-- 🧩 I enjoy solving real-world problems more than toy problems
-- 🤖 I love building AI-powered products end-to-end, from model to UI
-- 🏗️ I care deeply about clean, modular architecture
-- 🌙 Best debugging happens after midnight, with good music
-
-<br/>
-
-<!-- ======================== LET'S CONNECT ======================== -->
-## 💬 Let's Connect
-
-<p align="center">
-  I'm always happy to talk about AI engineering, full-stack architecture, or open source.
-  Reach out on <a href="https://linkedin.com/in/syeda-qurrath282">LinkedIn</a> or drop a line at
-  <a href="mailto:qurrath2809@gmail.com">qurrath2809@gmail.com</a>.
-</p>
-
-<br/>
-
-<!-- ======================== DEV QUOTE ======================== -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
-</p>
-
-<br/>
-
-<!-- ======================== FOOTER ======================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer wave" width="100%"/>
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by — let's build something great together. 🚀</sub>
 </p>
