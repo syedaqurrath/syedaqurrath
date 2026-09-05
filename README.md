@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/syeda-qurrath282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:qurrath2809@gmail.com?subject=AI%20Engineering%20Opportunity"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=qurrath2809@gmail.com&amp;su=AI%20Engineering%20Opportunity"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -51,25 +51,49 @@ My current positioning is **AI Engineer | Software Engineer | Building Productio
 
 ### AI / LLM Engineering
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</p>
+
 `Python` `RAG` `LLM Applications` `AI Agents` `Tool Calling` `API Integration` `Ollama` `LangGraph` `Agentic RAG`
 
 ### Backend Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="Backend technologies" />
+</p>
 
 `FastAPI` `Pydantic` `REST APIs` `Node.js` `Express.js` `JWT` `OAuth 2.0` `Middleware`
 
 ### AI Infrastructure / MLOps
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,redis" alt="Infrastructure technologies" />
+</p>
+
 `Docker` `Docker Compose` `Redis` `Celery` `Asynchronous Processing` `Health Checks` `Retries` `Logging` `MLOps Foundations`
 
 ### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" alt="Database technologies" />
+</p>
 
 `ChromaDB` `Vector Databases` `MongoDB` `MySQL` `Supabase` `SQL`
 
 ### Frontend
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="Frontend technologies" />
+</p>
+
 `React.js` `Vite` `HTML` `CSS` `React-Leaflet` `Web Speech API` `Streamlit`
 
 ### Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,opencv" alt="Developer tools" />
+</p>
 
 `Git` `GitHub` `VS Code` `Postman` `OpenCV` `MediaPipe`
 
@@ -187,7 +211,7 @@ I am open to conversations about AI Engineering, backend architecture, full-stac
 
 - [LinkedIn](https://linkedin.com/in/syeda-qurrath282)
 - [GitHub](https://github.com/syedaqurrath)
-- [Email](mailto:qurrath2809@gmail.com?subject=AI%20Engineering%20Opportunity)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=qurrath2809@gmail.com&su=AI%20Engineering%20Opportunity)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer wave" width="100%"/>
